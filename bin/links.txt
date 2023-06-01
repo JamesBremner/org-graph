@@ -1,0 +1,1857 @@
+ACHARD Pierre Claude Paul
+no links
+
+ANSART Bernard Pierre Marie
+Cabinets -> Heavy industry
+Cabinets -> Retail
+Heavy industry -> Retail
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Heavy industry
+Ministry of Economy -> Retail
+
+ARMAND Loic Marie
+
+ARSAC Francois Paul Marie Joseph
+ Caisse des d‚p“ts et consignations -> BPCE group
+ Caisse des d‚p“ts et consignations -> Cr‚dit Lyonnais
+ Caisse des d‚p“ts et consignations -> HSBC France
+"the Ministry of Labour, Employment and Population" ->  Caisse des d‚p“ts et consignations
+"the Ministry of Labour, Employment and Population" -> BPCE group
+"the Ministry of Labour, Employment and Population" -> Cr‚dit Lyonnais
+"the Ministry of Labour, Employment and Population" -> HSBC France
+BPCE group -> Cr‚dit Lyonnais
+HSBC France ->  Caisse des d‚p“ts et consignations
+HSBC France -> BPCE group
+HSBC France -> Cr‚dit Lyonnais
+
+ASSELINEAU Francois Didier
+Natixis -> Ministry of Economy
+
+AUBE-MARTIN Philippe Marc Andr‚
+Investment banks -> Real estate sector
+Ministry of Economy -> Investment banks
+Ministry of Economy -> Real estate sector
+
+AUBERGER Bernard
+Commissions Other -> Ministry of Agriculture
+Commissions Other -> Soci‚t‚ G‚n‚rale
+Ministry of Agriculture -> Soci‚t‚ G‚n‚rale
+Ministry of Economy -> Commissions Other
+Ministry of Economy -> Ministry of Agriculture
+Ministry of Economy -> Soci‚t‚ G‚n‚rale
+Natixis -> Commissions Other
+Natixis -> Ministry of Agriculture
+Natixis -> Ministry of Economy
+Natixis -> Soci‚t‚ G‚n‚rale
+
+AUBERGER Marc
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+Ministry of Economy -> Retail
+Ministry of Economy -> Technology
+Retail ->  Caisse des d‚p“ts et consignations
+Retail -> Technology
+Technology ->  Caisse des d‚p“ts et consignations
+
+INN Philippe
+ Caisse des d‚p“ts et consignations -> Other sectors
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+Ministry of Economy -> Other sectors
+
+AUBIN Christian Jean Louis Marie
+BNP Paribas -> Energy sector
+Commissions Other -> BNP Paribas
+Commissions Other -> Energy sector
+Commissions Other -> Ministry of Economy
+Commissions Other -> Other banks
+Commissions Other -> the Ministry of Industry 
+Ministry of Economy -> BNP Paribas
+Ministry of Economy -> Energy sector
+Ministry of Economy -> Other banks
+Other banks -> BNP Paribas
+Other banks -> Energy sector
+the Ministry of Industry  -> BNP Paribas
+the Ministry of Industry  -> Energy sector
+the Ministry of Industry  -> Ministry of Economy
+the Ministry of Industry  -> Other banks
+
+AUGIER Jean-Jacques Marcel
+Other sectors -> Media
+
+AUTIN Jean-Georges Marie
+FOM -> Media
+FOM -> Ministry of Culture
+FOM -> the Ministry of Industry 
+Ministry of Culture -> Media
+the Ministry of Industry  -> Media
+the Ministry of Industry  -> Ministry of Culture
+
+AUVIGNE Francois Ren‚ Pierre
+Cabinets -> Ministry of Economy
+Ministry of Economy -> Cabinets
+
+AVICE Franck Frederic
+Ministry of Economy -> FOM
+Ministry of Economy -> the Ministry of Industry 
+the Ministry of Industry  -> FOM
+
+AZOULAYJack John Mathias
+no links
+
+BADRE Bertrand Louis Maurice
+
+BAFFERT Maxime Pierre Jacques
+
+BARB Yves Marie Andr‚ Jacques
+Ministry of Economy -> Heavy industry
+the Ministry of National Education  -> Heavy industry
+the Ministry of National Education  -> Ministry of Economy
+
+BARBERYE Ren‚ Georges Marcel
+ Caisse des d‚p“ts et consignations -> Caisse des D‚p“ts et Consignations
+ Caisse des d‚p“ts et consignations -> Ministry of Economy
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+Ministry of Economy -> Caisse des D‚p“ts et Consignations
+
+BARBOT Gerard Raymond
+BPCE group ->  Caisse des d‚p“ts et consignations
+BPCE group -> Caisse des D‚p“ts et Consignations
+BPCE group -> Consulting
+Caisse des D‚p“ts et Consignations ->  Caisse des d‚p“ts et consignations
+Caisse des D‚p“ts et Consignations -> Consulting
+Consulting ->  Caisse des d‚p“ts et consignations
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+Ministry of Economy -> BPCE group
+Ministry of Economy -> Caisse des D‚p“ts et Consignations
+Ministry of Economy -> Consulting
+
+BAREL Etienne
+
+BARILARI Andr‚ Paul
+"the Ministry of Labour, Employment and Population" -> Ministry of Economy
+
+BASSÔRES Jean Olivier Antoine
+Cabinets -> Ministry of Economy
+
+BASTERI Anne-Michelle
+no links
+
+BAULINET Christophe Raymond Jacky
+Ministry of Economy -> the Ministry of Industry 
+the Ministry of Industry  -> Ministry of Economy
+
+BAVAGNOLI Corso Xavier Matt‚o
+no links
+
+BAYARD Serge Daniel
+ Caisse des d‚p“ts et consignations -> Other banks
+Treasury ->  Caisse des d‚p“ts et consignations
+Treasury -> Other banks
+Treasury -> the Treasury
+the Treasury ->  Caisse des d‚p“ts et consignations
+the Treasury -> Other banks
+
+BAYLE Jacques-Louis Marie Lazare Daniel
+Ministry of Economy -> BPCE group
+
+BEAUFRET Jean-Pascal
+BPCE group -> Natixis
+BPCE group -> Soci‚t‚ G‚n‚rale
+BPCE group -> Technology
+Cabinets -> BPCE group
+Cabinets -> Ministry of Economy
+Cabinets -> Natixis
+Cabinets -> Soci‚t‚ G‚n‚rale
+Cabinets -> Technology
+Ministry of Economy -> BPCE group
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Natixis
+Ministry of Economy -> Soci‚t‚ G‚n‚rale
+Ministry of Economy -> Technology
+Natixis -> Technology
+Soci‚t‚ G‚n‚rale -> Natixis
+Soci‚t‚ G‚n‚rale -> Technology
+
+BENOIN Gabriel Ren‚
+no links
+
+BENZAØD Redjem Bey Paul
+FOM -> Ministry of Culture
+
+BRARD-ANDRIEU Marguerite Marie Alice Simone
+no links
+
+BERNARD Jean-Rene
+Cabinets -> BPCE group
+Cabinets -> Ministry of Economy
+Ministry of Economy -> BPCE group
+
+BERNARD Yves Charles Georges
+no links
+
+BERT Thierry Marie Expedit Mauritius
+
+BERTHAUD Cecilia
+no links
+
+BEZARD Bruno Pierre
+Cabinets -> Ministry of Economy
+Commisions -> Cabinets
+Commisions -> Ministry of Economy
+Commisions -> The Treasury 
+Commissions Other -> Cabinets
+Commissions Other -> Commisions
+Commissions Other -> Ministry of Economy
+Commissions Other -> The Treasury 
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Commisions
+Ministry of Economy -> The Treasury 
+The Treasury  -> Cabinets
+The Treasury  -> Ministry of Economy
+
+BILGER Jean Pierre Hubert
+Commissions Other -> FOM
+Commissions Other -> Heavy industry
+Commissions Other -> Ministry of Economy
+FOM -> Heavy industry
+Ministry of Economy -> FOM
+Ministry of Economy -> Heavy industry
+
+BIZOUARD de MONTILLE Ludovic Luc Marie Lazare
+Ministry of Economy -> BNP Paribas
+
+WHITE Patrick
+"the Directorate General for Competition, Consumer Affairs and Fraud Control (DGCCRF" -> Ministry of Economy
+"the Directorate General for Competition, Consumer Affairs and Fraud Control (DGCCRF" -> the Ministry of Industry 
+Ministry of Economy -> "the Directorate General for Competition, Consumer Affairs and Fraud Control (DGCCRF"
+Ministry of Economy -> the Ministry of Industry 
+
+WHITE Andrew
+Ministry of Economy -> Heavy industry
+
+BLAYAU Pierre Noel Henri Marie
+Retail -> Heavy industry
+
+BLOCH-LAIN Jean-Michel
+Cabinets -> Investment banks
+Cabinets -> Ministry of Culture
+Cabinets -> Ministry of Economy
+Investment banks -> Ministry of Culture
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Investment banks
+Ministry of Economy -> Ministry of Culture
+
+BOARETTO Yann Andr‚ Ernest
+Commissions Other -> Caisse des D‚p“ts et Consignations
+the Forecasting department -> Caisse des D‚p“ts et Consignations
+the Forecasting department -> Commissions Other
+
+BODON Alain
+Ministry of Defense -> Cabinets
+
+BOLLIET Anne Christine Marie
+FOM -> Cabinets
+
+Good Michel Marie
+Investment banks -> Consulting
+Natixis -> Consulting
+Natixis -> Investment banks
+Natixis -> Retail
+Retail -> Consulting
+Retail -> Investment banks
+
+BONNARD Christophe Ren‚ Charles
+Commissions Other -> Cabinets
+Commissions Other -> Ministry of Economy
+Ministry of Economy -> Cabinets
+
+BONNET Pierre-Yves Paul Marie
+
+BONNET Yves Maurice Pierre
+no links
+
+BORDIERPaul Camille
+FOM -> Heavy industry
+FOM -> the Ministry of Cooperation 
+the Ministry of Cooperation  -> Heavy industry
+
+BUTTON Daniel Maurice Jacques
+Ministry of Economy -> Other sectors
+Ministry of Economy -> Soci‚t‚ G‚n‚rale
+Other sectors -> Ministry of Economy
+Soci‚t‚ G‚n‚rale -> Ministry of Economy
+Soci‚t‚ G‚n‚rale -> Other sectors
+
+BOUYOUX Philippe
+INSEE -> Ministry of Economy
+
+BRABANT Magali Daniele Fanny
+no links
+
+BRAC de LA PERRIÔRE Geraud Marie Dominique Henri
+Commisions -> Other banks
+
+BRASSENS Bertrand Pierre L‚a Marie Joseph
+
+BREAUD Patrick Michel
+Cabinets -> CIC
+Cabinets -> Other banks
+Ministry of Economy -> CIC
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Other banks
+Other banks -> CIC
+
+BREDIN Frederique Marie Denise Colette
+
+BRIFFOD Alain Jean Ren‚
+Cabinets -> BNP Paribas
+Cabinets -> Soci‚t‚ G‚n‚rale
+Soci‚t‚ G‚n‚rale -> BNP Paribas
+
+BRIOT Nicole Marie Jeanne
+"the Ministry of Agriculture, Minister of Agriculture and Forestry " -> FOM
+"the Ministry of Agriculture, Minister of Agriculture and Forestry " -> Ministry of Agriculture
+"the Ministry of Agriculture, Minister of Agriculture and Forestry " -> Ministry of Culture
+"the Ministry of Agriculture, Minister of Agriculture and Forestry " -> Ministry of Economy
+FOM -> Ministry of Culture
+Ministry of Agriculture -> FOM
+Ministry of Agriculture -> Ministry of Culture
+Ministry of Agriculture -> Ministry of Economy
+Ministry of Economy -> FOM
+Ministry of Economy -> Ministry of Culture
+
+BUKSPAN Elisabeth Suzanne
+Ministry of Economy -> Cabinets
+
+BURGARD Louis-Roch
+
+BUTLER Walter
+no links
+
+CABANA Yves Jean Camille
+Cabinets -> Consulting
+Cabinets -> Ministry of Economy
+Ministry of Economy -> Consulting
+
+CADIOU Alain Georges Jean Marie Joseph
+General Tax Department -> HSBC France
+General Tax Department -> Ministry of Economy
+HSBC France -> Ministry of Economy
+Ministry of Economy -> HSBC France
+
+CAHART Patrice Didier Jean
+Cabinets -> Ministry of Culture
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Ministry of Culture
+
+CAILLETEAU Francois Pierre Ren‚
+Cabinets -> Ministry of Defense
+
+CAPRON Philippe Gaston Henri
+Consulting -> Energy sector
+Other banks -> Consulting
+Other banks -> Energy sector
+
+CAREIL Patrick Emile Alain
+BPCE group -> HSBC France
+BPCE group -> Retail
+Cabinets -> BPCE group
+Cabinets -> Commisions
+Cabinets -> HSBC France
+Cabinets -> Retail
+Commisions -> BPCE group
+Commisions -> HSBC France
+Commisions -> Retail
+Commissions Other -> BPCE group
+Commissions Other -> Cabinets
+Commissions Other -> Commisions
+Commissions Other -> HSBC France
+Commissions Other -> Retail
+HSBC France -> BPCE group
+HSBC France -> Commisions
+HSBC France -> Retail
+Ministry of Economy -> BPCE group
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Commisions
+Ministry of Economy -> Commissions Other
+Ministry of Economy -> HSBC France
+Ministry of Economy -> Retail
+
+CARLE Pierre Louis Joseph
+Cabinets -> FOM
+FOM -> Cabinets
+
+CARMONA Julien Francois Paul
+BNP Paribas -> Natixis
+
+CARPENTIER Jean-Baptiste Marie-Emmanuel
+Ministry of Economy -> Cabinets
+Ministry of Economy -> the Ministry of Justice 
+the Ministry of Justice  -> Cabinets
+the Ministry of Justice  -> Ministry of Economy
+
+CAZENAVE Thomas
+no links
+
+CEDELLE Jean Joseph
+Cabinets -> Cr‚dit Lyonnais
+INSEE -> Cabinets
+INSEE -> Cr‚dit Lyonnais
+
+CERUTTI Guillaume
+no links
+
+CHALENDAR (by) Pierre-Andr‚
+the Ministry of Industry  -> FOM
+
+CHAMBODUC of SAINT PULGENT No‰l Fran‡ois Marie
+Commisions -> Other sectors
+the Ministry of Transport  -> Commisions
+the Ministry of Transport  -> Other sectors
+
+CHAMPAGNE Valerie Francoise Catherine
+Commisions -> INSEE
+Commisions -> Ministry of Economy
+INSEE -> Ministry of Economy
+Ministry of Economy -> INSEE
+
+CHARPIN Jean-Michel
+BNP Paribas -> FOM
+BNP Paribas -> INSEE
+FOM -> BNP Paribas
+FOM -> INSEE
+INSEE -> BNP Paribas
+INSEE -> FOM
+
+CHAUMET Francois Paul Rene
+FOM -> Commissions Other
+FOM -> the Ministry of State for Aid and Cooperation 
+the Ministry of State for Aid and Cooperation  -> Commissions Other
+the Ministry of State for Aid and Cooperation  -> FOM
+
+CHAVANNE Paul-Marie Laurent Joseph
+Ministry of Economy -> Heavy industry
+
+HORSE Marie Camille Francoise
+no links
+
+CHOUSSAT Jean Germain Albert
+
+CLUZEL Jean-Paul Philippe
+Commisions -> Ministry of Economy
+
+COHEN Alain-Gerard
+Commisions -> Commissions Other
+Commisions -> Ministry of Economy
+Commissions Other -> Ministry of Economy
+
+COLIN Nicolas Yves
+no links
+
+COLLI Jean-Claude
+BPCE group -> FOM
+FOM -> BPCE group
+FOM -> Other sectors
+FOM -> the Ministry of Industry 
+FOM -> the Ministry of the Environment
+Other sectors -> BPCE group
+Other sectors -> FOM
+Other sectors -> the Ministry of the Environment
+the Ministry of Industry  -> BPCE group
+the Ministry of Industry  -> FOM
+the Ministry of Industry  -> Other sectors
+the Ministry of Industry  -> the Ministry of the Environment
+the Ministry of the Environment -> BPCE group
+the Ministry of the Environment -> FOM
+
+CONSIGNY Pierre Francois Marie Jean
+FOM -> the Ministry of Equipment and Housing
+
+CONSTANS Emmanuel Jean Leopold
+Commisions -> Ministry of Economy
+
+CONTENTSOU Marie-Claude
+no links
+
+COPPINGER Nathalie Marie Patricia
+Media -> Cabinets
+Media -> Ministry of Economy
+Ministry of Economy -> Cabinets
+
+CORDIER Alain David Francois Marie
+Media -> Ministry of Culture
+
+COSS Pierre-Yves Michel Marie
+Ministry of Economy -> FOM
+the Ministry of National Education  -> FOM
+the Ministry of National Education  -> Ministry of Economy
+
+COSTA de BEAUREGARD Olivier Emmanuel Albert Marie
+HSBC France -> Heavy industry
+
+COUSTET Olivier Bruno Louis
+Media -> Consulting
+
+COZON Stanislas Marie Ferdinand Colas Patrick
+Natixis -> Consulting
+
+COZZAROLO Bertrand
+Other banks -> Soci‚t‚ G‚n‚rale
+
+CREMEL Bruno Laurent
+Other sectors -> Ministry of Economy
+Other sectors -> Retail
+Retail -> Ministry of Economy
+Retail -> Other sectors
+
+CUKIERMAN Daniel Maxime
+
+CUNEO Pierre Henri Paul
+no links
+
+DAMAIS Alain Philippe Bernard
+the Ministry of National Education  -> Ministry of Economy
+
+DANE Philip Claude Theobald Oliver
+Commisions -> FOM
+
+DANTOINE Helene Suzanne
+no links
+
+DARMON Jacques
+Cabinets -> Retail
+Cabinets -> Technology
+Retail -> Technology
+the Ministry of Industry  -> Cabinets
+the Ministry of Industry  -> Retail
+the Ministry of Industry  -> Technology
+
+DAUSSUN Robert
+Commisions -> Cabinets
+Commisions -> Ministry of Economy
+Commisions -> Ministry of Finance
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Ministry of Finance
+Ministry of Finance -> Cabinets
+Ministry of Finance -> Ministry of Economy
+
+DAVID Jacques-Henri Albert
+Commisions -> Other banks
+Commisions -> Real estate sector
+INSEE -> Commisions
+INSEE -> Ministry of Economy
+INSEE -> Other banks
+INSEE -> Real estate sector
+Ministry of Economy -> Commisions
+Ministry of Economy -> Other banks
+Ministry of Economy -> Real estate sector
+Other banks -> Commisions
+Other banks -> Real estate sector
+
+DEBONNEUIL Michele
+FOM -> Cabinets
+FOM -> INSEE
+Heavy industry -> Cabinets
+Heavy industry -> FOM
+Heavy industry -> INSEE
+INSEE -> Cabinets
+Other banks -> Cabinets
+Other banks -> FOM
+Other banks -> Heavy industry
+Other banks -> INSEE
+
+DELAHOUSSE Michel Jean Andr‚
+no links
+
+DELAPALME Nathalie Anne Marie Sophie
+no links
+
+DELETR Bruno Yves Marie Ren‚
+BPCE group -> Ministry of Economy
+The Treasury  -> BPCE group
+The Treasury  -> Ministry of Economy
+
+DELPIT Bernard Pierre Marie
+Commissions Other -> Heavy industry
+Commissions Other -> Ministry of Economy
+Ministry of Economy -> Heavy industry
+
+DEMAROLLE Alain Jean Francis
+Commissions Other -> Ministry of Economy
+Commissions Other -> Other banks
+Ministry of Economy -> Other banks
+
+DENIS Jean-Pierre
+
+DENOYEL Gilles Paul Marie
+
+DEPROST Pierre Roger Jacques
+Commisions -> Ministry of Culture
+
+DESMOUCEAUX by GIVRAY-LADELNET Val‚rie Marie-Th‚rŠse
+BNP Paribas -> HSBC France
+
+DJELLAL Robert
+Ministry of Economy -> Cabinets
+
+DUNGEON of SAINT-MARTIN Jean-Philippe Dominique
+no links
+
+DORISON Alain Daniel Maurice
+no links
+
+DUBERTRET Benjamin Francois Jean
+no links
+
+DUBOIS Romain Marie Hubert
+Consulting -> Ministry of Economy
+Consulting -> the Ministry of Employment and Solidarity 
+the Ministry of Employment and Solidarity  -> Ministry of Economy
+
+DUBOST Daniel Alain
+FOM -> Ministry of Economy
+FOM -> the Forecasting department
+FOM -> the Ministry of Industry 
+Ministry of Economy -> the Forecasting department
+Ministry of Economy -> the Ministry of Industry 
+the Forecasting department -> Ministry of Economy
+the Ministry of Industry  -> Ministry of Economy
+the Ministry of Industry  -> the Forecasting department
+
+DUFOURCQ Nicolas Georges Norbert Marie Jo‰l
+Cabinets -> Consulting
+Cabinets -> Technology
+Technology -> Consulting
+
+Pascale DUGOS
+no links
+
+DUHAMEL Nicolas Louis Auguste
+Ministry of Economy -> Energy sector
+
+DULAC Philippe Jean Ren‚ Guillaume
+Cabinets -> BNP Paribas
+Cabinets -> Ministry of Economy
+Ministry of Economy -> BNP Paribas
+Ministry of Economy -> Cabinets
+
+DUMAS Philippe Robert
+ Caisse des d‚p“ts et consignations -> CIC
+Cabinets ->  Caisse des d‚p“ts et consignations
+Cabinets -> CIC
+Cabinets -> Ministry of Economy
+Commisions ->  Caisse des d‚p“ts et consignations
+Commisions -> CIC
+Commisions -> Cabinets
+Commisions -> Ministry of Economy
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+Ministry of Economy -> CIC
+Ministry of Economy -> Cabinets
+
+DUPRAT-BRIOU Orianne Audrey
+no links
+
+DUPUIS Philippe Andr‚ Pierre
+Commissions Other -> Heavy industry
+Commissions Other -> the Ministry of Industry 
+Ministry of Economy -> Commissions Other
+Ministry of Economy -> Heavy industry
+Ministry of Economy -> the Ministry of Industry 
+the Ministry of Industry  -> Heavy industry
+
+DUREAU Guillaume Ren‚ Marie
+Commisions -> Ministry of Economy
+INSEE -> Commisions
+INSEE -> Ministry of Economy
+Ministry of Economy -> Commisions
+
+DURIEUX Bruno
+INSEE -> Ministry of Economy
+
+ESPALIOUX Jean-Marc
+
+EUVRARD Michel Yves Raymond
+no links
+
+EVENO Bertrand Pierre Henri
+Heavy industry -> Consulting
+Heavy industry -> Media
+Heavy industry -> Retail
+Media -> Consulting
+Retail -> Consulting
+Retail -> Heavy industry
+Retail -> Media
+
+Fares Mohammed Said
+
+FEHRENBACH Jerome Jean Marie
+Consulting ->  Caisse des d‚p“ts et consignations
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+Ministry of Economy -> Consulting
+
+FERRAZZI Claudia
+
+FILIPPI Charles-Henri Marie
+HSBC France -> Investment banks
+Ministry of Economy -> HSBC France
+Ministry of Economy -> Investment banks
+Ministry of Economy -> Other banks
+Other banks -> HSBC France
+Other banks -> Investment banks
+
+FLEURIOT Pierre Christian Claude
+BNP Paribas -> Investment banks
+BNP Paribas -> Other banks
+Other banks -> BNP Paribas
+Other banks -> Investment banks
+
+FORNERI Jean-Marc Louis
+no links
+
+FOUCAULD (de) Jean-Baptiste Louis Charles
+Commisions -> Commissions Other
+Commisions -> FOM
+Commisions -> Ministry of Economy
+FOM -> Commissions Other
+Ministry of Economy -> Commisions
+Ministry of Economy -> Commissions Other
+Ministry of Economy -> FOM
+
+FREYCHE Michel Gabriel
+
+FRIBORG Michael Jacques Michel
+no links
+
+FRIEDMANN Jacques Henri
+BPCE group -> Energy sector
+BPCE group -> Media
+BPCE group -> Other banks
+BPCE group -> Real estate sector
+BPCE group -> Technology
+Cabinets -> BPCE group
+Cabinets -> Energy sector
+Cabinets -> Heavy industry
+Cabinets -> Media
+Cabinets -> Other banks
+Cabinets -> Real estate sector
+Cabinets -> Technology
+Commisions -> BPCE group
+Commisions -> Cabinets
+Commisions -> Energy sector
+Commisions -> FOM
+Commisions -> Heavy industry
+Commisions -> Media
+Commisions -> Ministry of Economy
+Commisions -> Other banks
+Commisions -> Real estate sector
+Commisions -> Technology
+FOM -> BPCE group
+FOM -> Cabinets
+FOM -> Energy sector
+FOM -> Heavy industry
+FOM -> Media
+FOM -> Ministry of Economy
+FOM -> Other banks
+FOM -> Real estate sector
+FOM -> Technology
+Heavy industry -> BPCE group
+Heavy industry -> Energy sector
+Heavy industry -> Media
+Heavy industry -> Other banks
+Heavy industry -> Real estate sector
+Heavy industry -> Technology
+Media -> Energy sector
+Media -> Other banks
+Ministry of Economy -> BPCE group
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Energy sector
+Ministry of Economy -> Heavy industry
+Ministry of Economy -> Media
+Ministry of Economy -> Other banks
+Ministry of Economy -> Real estate sector
+Ministry of Economy -> Technology
+Other banks -> Energy sector
+Real estate sector -> Energy sector
+Real estate sector -> Media
+Real estate sector -> Other banks
+Real estate sector -> Technology
+Technology -> Energy sector
+Technology -> Media
+Technology -> Other banks
+
+GAGEY Frederic Nicolas Pierre Paul
+no links
+
+GAILLARD Yann Marie
+Other sectors -> Other banks
+
+GARANDEAU Eric Michel Christian Jacques
+no links
+
+GASTINEL Herve
+no links
+
+GATIER J‚r“me Gabriel Francois Pascal
+Other sectors -> FOM
+
+GAUDIN Pierre Henri Jean
+no links
+
+GAUTIER-SAUVAGNAC Denis (Marie Francois) Antoine
+Media -> Heavy industry
+Ministry of Economy -> Heavy industry
+Ministry of Economy -> Media
+
+GAVOIS Francis Robert
+Cabinets -> Investment banks
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Investment banks
+
+GERBAUX Jacques Fernand Louis Alfred
+FOM ->  the Ministry of the Armed Forces
+
+GESLIN Arnaud Pierre
+no links
+
+GINTRAND Andr‚ Joseph Augustin
+Commissions Other -> FOM
+FOM -> Commissions Other
+
+GIRODOLLE Jean-Louis
+Ministry of Economy -> Investment banks
+
+GISCARD d'ESTAING Antoine Marie R‚mi Lazare
+Heavy industry -> Consulting
+Heavy industry -> Technology
+Technology -> Consulting
+
+GISSEROT Pierre Jean Lucien
+Commissions Other -> Ministry of Economy
+Ministry of Economy -> Commissions Other
+
+GISSLER Eric Marc
+ Caisse des d‚p“ts et consignations -> Cabinets
+ Caisse des d‚p“ts et consignations -> Ministry of Economy
+Cabinets ->  Caisse des d‚p“ts et consignations
+Cabinets -> Ministry of Economy
+Ministry of Economy -> Cabinets
+
+GLICENSTEIN Gilles
+
+GOMEZ Alain Michel Gilbert
+Real estate sector -> Consulting
+
+GOSSET-GRAINVILLE Antoine Marie Miguel
+Other sectors ->  Caisse des d‚p“ts et consignations
+
+GOUIFFES Pierre-Francois Louis
+Consulting -> Media
+
+GOUYON de COIPEL (de) Herv‚
+no links
+
+GRAPINET Gilles Paul Francis Dominique
+Ministry of Economy -> Consulting
+
+GRIVET Jerome Pierre
+Cr‚dit Lyonnais -> Consulting
+
+GROVEN Eric Henri
+Commisions -> FOM
+Commisions -> Soci‚t‚ G‚n‚rale
+FOM -> Soci‚t‚ G‚n‚rale
+
+GUERLAIN Matthieu Erik
+no links
+
+GUIDED Renaud Fran‡ois Marie Marcel Pierre Nicolas
+no links
+
+GUILLAUME Henri Andr‚
+FOM -> Commisions
+
+GUITTON Gilles Bernard Charles Marie Jean
+Ministry of Economy -> CIC
+
+HABERER Jean-Yves Hippolyte
+BNP Paribas -> Cr‚dit Lyonnais
+BNP Paribas -> Natixis
+Cabinets -> BNP Paribas
+Cabinets -> Cr‚dit Lyonnais
+Cabinets -> Ministry of Economy
+Cabinets -> Natixis
+Cr‚dit Lyonnais -> Natixis
+FOM -> BNP Paribas
+FOM -> Cabinets
+FOM -> Cr‚dit Lyonnais
+FOM -> Ministry of Economy
+FOM -> Natixis
+Ministry of Economy -> BNP Paribas
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Cr‚dit Lyonnais
+Ministry of Economy -> Natixis
+
+HANNEZO Guillaume Thomas Pierre Antoine
+
+HANNOUN Herve
+Ministry of Economy -> Cabinets
+
+HANOTAUX Pierre Albert Marie Joseph
+no links
+
+HAVARD Henry
+no links
+
+HEILBRONN Pierre Andr‚ Emmanuel
+no links
+
+HEILBRONNER Fran‡ois
+Cabinets -> Consulting
+Cabinets -> Other sectors
+Cabinets -> Real estate sector
+Consulting -> Other sectors
+Consulting -> Real estate sector
+Real estate sector -> Consulting
+Real estate sector -> Other sectors
+
+HEILBRONNER-LAHOUD Anne-Gabrielle
+Ministry of Economy -> Retail
+
+HESPEL V‚ronique Th‚rŠse Yvonne Elisabeth
+Ministry of Economy -> FOM
+
+HINNIN (d') Dominique Marie Philippe
+Investment banks -> Media
+
+HIREL Jean-Claude
+Technology -> Energy sector
+Technology -> the Ministry of Industry 
+Technology -> the Ministry of Universities
+the Ministry of Industry  -> Energy sector
+the Ministry of Universities -> Energy sector
+the Ministry of Universities -> the Ministry of Industry 
+
+HUSTACHE Philippe Gerard Lucien
+Commisions -> Energy sector
+Commisions -> Heavy industry
+Commisions -> Natixis
+Commisions -> the Ministry of Industry 
+Energy sector -> Heavy industry
+Natixis -> Energy sector
+Natixis -> Heavy industry
+Natixis -> the Ministry of Industry 
+the Ministry of Industry  -> Energy sector
+the Ministry of Industry  -> Heavy industry
+
+IDRAC Francis Cloud
+no links
+
+JACHIET Nicolas Marie
+Caisse des D‚p“ts et Consignations -> Ministry of Economy
+Ministry of Economy -> Caisse des D‚p“ts et Consignations
+
+JACLOT Francois Michel Marie Charles
+Consulting -> Energy sector
+Consulting -> Heavy industry
+Consulting -> Media
+Consulting -> Other sectors
+Energy sector -> Consulting
+Energy sector -> Heavy industry
+Energy sector -> Media
+Energy sector -> Other sectors
+Heavy industry -> Consulting
+Heavy industry -> Energy sector
+Heavy industry -> Investment banks
+Heavy industry -> Media
+Heavy industry -> Other sectors
+Investment banks -> Consulting
+Investment banks -> Energy sector
+Investment banks -> Heavy industry
+Investment banks -> Media
+Investment banks -> Other sectors
+Media -> Consulting
+Media -> Energy sector
+Media -> Other sectors
+Natixis -> Consulting
+Natixis -> Energy sector
+Natixis -> Heavy industry
+Natixis -> Investment banks
+Natixis -> Media
+Natixis -> Other sectors
+Other sectors -> Consulting
+Other sectors -> Energy sector
+
+JACOB Michel Jean Yves
+Energy sector -> Technology
+Ministry of Interior -> Energy sector
+Ministry of Interior -> Technology
+
+JACQUIN de MARGERIE Gilles Roland Maurice
+Cabinets -> Cr‚dit Lyonnais
+FOM -> Cabinets
+FOM -> Cr‚dit Lyonnais
+Investment banks -> Cabinets
+Investment banks -> Cr‚dit Lyonnais
+Investment banks -> FOM
+
+JAFFRE Philippe Serge Yves
+Energy sector -> Other banks
+Ministry of Economy -> Energy sector
+Ministry of Economy -> Other banks
+Other banks -> Energy sector
+
+JAHAN de LESTANG Martin Yves Georges Marie Joseph
+
+JEANCOURT-GALIGNANI Antoine Jacques Jean
+Ministry of Economy -> Other banks
+Ministry of Economy -> Other sectors
+Ministry of Economy -> Real estate sector
+Other banks -> Real estate sector
+Other sectors -> Other banks
+Other sectors -> Real estate sector
+Real estate sector -> Other banks
+
+JEORGER Leopold Henri
+Other sectors -> Other banks
+
+JEVAKHOFF Alexander
+FOM -> Real estate sector
+Media -> FOM
+Media -> Real estate sector
+
+JOCHUM Jean-Pierre Francois Maurice
+Ministry of Economy -> Media
+
+JODER Melanie Lisa
+no links
+
+JOLY Alexandre Albert Robert
+Heavy industry -> FOM
+
+JOUBERT-BOMPARD (known as BOMPARD) Alexandre Pierre Alain
+Media -> Retail
+
+JOUYET Jean-Pierre Victor Edouard
+Commisions -> FOM
+Commisions -> Ministry of Economy
+Commisions -> Other banks
+Commisions -> Other sectors
+FOM -> Ministry of Economy
+FOM -> Other banks
+FOM -> Other sectors
+Ministry of Economy -> Other banks
+Other banks -> Ministry of Economy
+Other sectors -> Ministry of Economy
+Other sectors -> Other banks
+
+JUERY Jean-Francois
+no links
+
+JUPPE Alain Marie
+Ministry of Economy -> FOM
+
+JURGENSEN Charles Philippe Henri
+FOM -> Commisions
+FOM -> Ministry of Economy
+Ministry of Economy -> Commisions
+
+JUTTEAU Maud Aline Antoinette
+no links
+
+KAEPPELIN Thierry
+Cabinets -> FOM
+Cabinets -> Ministry of Interior
+Ministry of Interior -> FOM
+
+THE NANTEUIL BAR (by) Yann Herv‚ Marie-Joseph
+Cabinets -> Soci‚t‚ G‚n‚rale
+
+THE CASTRIES CROSS (by) Henri Ren‚ Marie Augustin
+Investment banks -> Ministry of Economy
+Ministry of Economy -> Investment banks
+
+LACHAUX Claude Maurice
+Ministry of Economy -> FOM
+
+Sarah LACOCHE
+no links
+
+LAFFITTE Michel
+Caisse des D‚p“ts et Consignations -> the Ministry of Industry 
+Ministry of Economy -> Caisse des D‚p“ts et Consignations
+Ministry of Economy -> the Ministry of Industry 
+
+LAGAYETTE Philippe Ernest Georges
+ Caisse des d‚p“ts et consignations -> Investment banks
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+Ministry of Economy -> Investment banks
+the Ministry of National Education  ->  Caisse des d‚p“ts et consignations
+the Ministry of National Education  -> Investment banks
+the Ministry of National Education  -> Ministry of Economy
+
+LAJOUMARD Daniele Ren‚e
+no links
+
+LALLEMENT Jacques Georges Paulin
+Commisions -> Other banks
+FOM -> Commisions
+FOM -> Other banks
+the Ministry of Information  -> Commisions
+the Ministry of Information  -> FOM
+the Ministry of Information  -> Other banks
+
+LALLIER Daniel Roger
+Cr‚dit Lyonnais -> Other banks
+
+LAMBERT Thierry Claude Maxime
+Commissions Other -> Ministry of Economy
+Ministry of Economy -> Commissions Other
+
+LAMY Pascal Lucien Fernand
+no links
+
+LANDAU Jean-Pierre Fernand
+Cabinets -> Ministry of Economy
+
+LANGLOIS-BERTHELOT Maxence
+no links
+
+LAPIDUS Aur‚lie Sara Monique Pearl
+no links
+
+LAPRVOTE Fran‡ois-Charles Vincent Marie
+no links
+
+LAROSIÔRE de CHAMPFEU (by) Jacques Martin Henri Marie
+BPCE group -> BNP Paribas
+Ministry of Economy -> BNP Paribas
+Ministry of Economy -> BPCE group
+Ministry of Economy -> Natixis
+Natixis -> BNP Paribas
+Natixis -> BPCE group
+
+LAURENCE Bertrand S‚vŠre Jean-Louis
+no links
+
+THE FUTURE Fr‚d‚ric Etienne
+BNP Paribas -> Ministry of Economy
+Ministry of Economy -> BNP Paribas
+
+THE GALL Olivier Albert
+Media -> Other sectors
+
+LECA Charlotte Fatima Marie Sabine Lydie
+no links
+
+LECERF Pierre-Emmanuel Denis Marc
+no links
+
+LECHANTRE Marc Henri Jean
+Ministry of Economy -> Heavy industry
+
+LECLERC Jean-Pierre
+no links
+
+LEFEVRE Jacques Francois
+FOM -> Heavy industry
+the Ministry of National Education  -> FOM
+the Ministry of National Education  -> Heavy industry
+
+LEMIERRE Jean Adrien
+BPCE group -> Ministry of Economy
+
+LEMOINE Frederic Nicolas
+no links
+
+LEMOR Francis Jules Henri
+Commisions -> Heavy industry
+Heavy industry -> Commisions
+
+LENOIR Ren‚ Felix Emile
+ Caisse des d‚p“ts et consignations -> Commissions Other
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+Ministry of Economy -> Commissions Other
+
+LEONARD de JUVIGNY Benoit Marie
+Cr‚dit Lyonnais -> HSBC France
+Cr‚dit Lyonnais -> Other banks
+HSBC France -> Other banks
+Ministry of Economy -> Cr‚dit Lyonnais
+Ministry of Economy -> HSBC France
+Ministry of Economy -> Other banks
+
+LEOTARD Fran‡ois G‚rard Marie Fabrice
+FOM -> Ministry of Interior
+
+LEPETIT Marie-Christine Suzanne Yvonne
+no links
+
+LEPETIT Pierre Marie L‚on Denis
+no links
+
+LEPINE Jean-Luc Marc Pierre
+Ministry of Economy -> Energy sector
+Natixis -> Energy sector
+Natixis -> Ministry of Economy
+
+LIDSKY Vincent Georges
+
+LIEB Jean-Pierre
+no links
+
+LION Robert Louis Etienne
+Commisions ->  Caisse des d‚p“ts et consignations
+Commisions -> FOM
+FOM ->  Caisse des d‚p“ts et consignations
+the Ministry of Equipment and Housing ->  Caisse des d‚p“ts et consignations
+the Ministry of Equipment and Housing -> Commisions
+the Ministry of Equipment and Housing -> FOM
+the Ministry of Industry  ->  Caisse des d‚p“ts et consignations
+the Ministry of Industry  -> Commisions
+the Ministry of Industry  -> FOM
+the Ministry of Industry  -> the Ministry of Equipment and Housing
+
+LLOYD Alexis Gregory
+Heavy industry -> Media
+Media -> Heavy industry
+
+LOUVOT Matthieu Pierre-Louis
+
+LUBEK David Julien Emeric
+no links
+
+LUBEK Pierre Michel
+FOM -> Media
+Ministry of Culture -> FOM
+Ministry of Culture -> Media
+
+LULIN Elisabeth Stephanie Andr‚e
+no links
+
+LUSTMAN Florence Beatrice
+no links
+
+MACHET by LA MARTINIÔRE G‚rard Marie Pierre
+Commisions -> Ministry of the Budget 
+Commisions -> Other banks
+Ministry of the Budget  -> Other banks
+
+MACRON Emmanuel Jean-Michel Frederic
+Commissions Other -> Ministry of Economy
+
+MADEC Alain Jean
+
+MALABOUCHE Gerard Marie Etienne
+FOM -> the Ministry of Industry 
+INSEE -> FOM
+INSEE -> the Ministry of Industry 
+
+MALLET Olivier Bruno Benedict
+Cabinets -> Heavy industry
+Cabinets -> Ministry of Economy
+Cabinets -> Technology
+Ministry of Economy -> Cabinets
+Ministry of Economy -> Heavy industry
+Ministry of Economy -> Technology
+Technology -> Heavy industry
+
+MANSION Yves Georges Marie Philippe
+
+MARCEL Dominique Marie Bernard
+ Caisse des d‚p“ts et consignations -> Caisse des D‚p“ts et Consignations
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+Ministry of Economy -> Caisse des D‚p“ts et Consignations
+
+MAREINE Philippe Antoine Francois
+Ministry of Economy -> Consulting
+
+MARIANI Pierre Paul Francois
+Commisions -> BNP Paribas
+Commisions -> Ministry of Economy
+Ministry of Economy -> BNP Paribas
+
+MARIGEAUD Martine
+Ministry of Economy -> Ministry of Culture
+
+MARINI Philippe Alexandre Pierre
+Commissions Other -> Investment banks
+FOM -> Commissions Other
+FOM -> Investment banks
+
+MARTEL Laurent R‚mi Pierre
+no links
+
+MASS Alexis Robert
+no links
+
+MATEOS Y LAGO Isabelle Sophie Alexandra
+no links
+
+MAULDE (de) Bruno Guy Andr‚ Jean
+Ministry of Economy -> BNP Paribas
+Ministry of Economy -> Soci‚t‚ G‚n‚rale
+Soci‚t‚ G‚n‚rale -> BNP Paribas
+
+MAZIERES (by) Fran‡ois Paul
+no links
+
+MENANTEAU Jean-Pierre Olivier Henri
+no links
+
+MENTR de LOYE Gilles Jean-Fran‡ois Philippe Paul
+no links
+
+MENTRE by LOYE Paul Andr‚
+Commissions Other -> Consulting
+Commissions Other -> FOM
+Commissions Other -> Ministry of Economy
+Commissions Other -> Natixis
+Commissions Other -> Technology
+Commissions Other -> the Ministry of Industry 
+Consulting -> Technology
+FOM -> Consulting
+FOM -> Natixis
+FOM -> Technology
+Ministry of Economy -> Consulting
+Ministry of Economy -> FOM
+Ministry of Economy -> Natixis
+Ministry of Economy -> Technology
+Ministry of Economy -> the Ministry of Industry 
+Natixis -> Consulting
+Natixis -> Technology
+the Ministry of Industry  -> Consulting
+the Ministry of Industry  -> FOM
+the Ministry of Industry  -> Natixis
+the Ministry of Industry  -> Technology
+
+Menuet Vincent Francois
+no links
+
+MERCADIE Jean-Luc Antoine Francois Marie
+
+MERVIEL Pierre Victor
+
+MESSIER Jean-Marie Raymond Pierre
+Energy sector -> Media
+Media -> Energy sector
+
+METTLING Bruno
+BPCE group -> Real estate sector
+FOM -> BPCE group
+FOM -> Ministry of Economy
+FOM -> Real estate sector
+Ministry of Economy -> BPCE group
+Ministry of Economy -> Real estate sector
+
+METZ (de) Robert Marie Alain
+BNP Paribas -> Energy sector
+BNP Paribas -> Real estate sector
+Commisions -> BNP Paribas
+Commisions -> Energy sector
+Commisions -> Investment banks
+Commisions -> Other banks
+Commisions -> Real estate sector
+Energy sector -> Real estate sector
+Investment banks -> BNP Paribas
+Investment banks -> Energy sector
+Investment banks -> Real estate sector
+Other banks -> BNP Paribas
+Other banks -> Energy sector
+Other banks -> Investment banks
+Other banks -> Real estate sector
+
+MICHE de MALLERAY Pierre-Alain Louis
+no links
+
+MICHEL Bernard Alfred Ren‚
+CIC -> Cr‚dit Lyonnais
+FOM -> CIC
+FOM -> Cr‚dit Lyonnais
+
+MINC Alain Jacques Richard
+Technology -> Consulting
+
+MONGIN Francois Marie Yves
+
+MORALI Veronique Helene Alice
+Energy sector -> Retail
+
+MOURRE Gilbert Olivier Pierre
+FOM -> Ministry of Economy
+Ministry of Economy -> FOM
+
+MUTE Pierre-Alain Antoine
+FOM -> Cabinets
+
+MUSCA-Xavier
+The Treasury  -> Ministry of Economy
+
+NAOURI Jean-Charles
+Ministry of Economy -> Other sectors
+Ministry of Economy -> Retail
+Retail -> Other sectors
+
+NICOLAS John the Baptist
+no links
+
+NICOLI Christophe Nicolas
+no links
+
+OHIER Micka‰l
+no links
+
+OLLIVIER Yvon Jean Francois
+Consulting -> Other sectors
+Other sectors -> Consulting
+
+OUDEA Frederic Robert Andr‚
+Ministry of Economy -> Soci‚t‚ G‚n‚rale
+
+PAGEZY Olivier Henri
+Energy sector -> Media
+Energy sector -> Ministry of Economy
+Media -> Ministry of Economy
+
+PANAFIEU (by) Guy Edouard Louis Marie
+Cr‚dit Lyonnais -> Consulting
+Heavy industry -> Consulting
+Heavy industry -> Cr‚dit Lyonnais
+the Department of Foreign Economic Relations (DREE)  -> Consulting
+the Department of Foreign Economic Relations (DREE)  -> Cr‚dit Lyonnais
+the Department of Foreign Economic Relations (DREE)  -> Heavy industry
+
+PANNIER Marc Ren‚ Charles
+no links
+
+PANNIER-RUNACHER AgnŠs Charlotte Jeanne
+no links
+
+PARANQUE R‚gis Marie Francois
+Cabinets -> Commisions
+Commisions -> Cabinets
+Commisions -> Consulting
+Commisions -> Media
+Consulting -> Cabinets
+Consulting -> Commisions
+Consulting -> Media
+Media -> Cabinets
+Media -> Commisions
+Media -> Consulting
+
+PARENT Bruno
+no links
+
+PASCAL Philippe Eric
+no links
+
+PAUGAM-MINGASSON Anne GeneviŠve
+no links
+
+PEBEREAU Michel Jean Denis
+FOM -> BNP Paribas
+FOM -> Ministry of Economy
+Ministry of Economy -> BNP Paribas
+
+PELLETIER Jacques Georges Maxime
+Cabinets -> Consulting
+FOM -> Cabinets
+FOM -> Consulting
+
+PELOSSE Helene Monique
+
+PEROL Fran‡ois Denis Marie Joseph
+Ministry of Economy -> Natixis
+
+PERPERE Laurent Marie Bernard
+Media -> Consulting
+Media -> Other banks
+Ministry of Economy -> Consulting
+Ministry of Economy -> Media
+Ministry of Economy -> Other banks
+Other banks -> Consulting
+Other banks -> Media
+
+PERRIN Daniel
+FOM -> the Ministry of Agriculture and Fisheries
+
+PEYRONE Georges Romain
+Ministry of Economy -> Ministry of Interior
+
+PILLOUX Alain Christian
+no links
+
+PITON Marcel Etienne Paul
+no links
+
+PRADA Michel Andr‚ Jean Edmond
+no links
+
+PROT Baudouin Daniel Claude
+the Ministry of Industry  -> BNP Paribas
+
+PROTO Sebastian
+Consulting -> Ministry of Economy
+
+QUINET Alain Marie Michel
+no links
+
+RAMBAL Philippe Jacques
+Ministry of Economy -> the Forecasting department
+
+RAMON Stephane Henri Pierre
+no links
+
+RAPPORT Jacques
+no links
+
+RAVIGNON Boris
+Ministry of Economy -> FOM
+
+REBOUL Charlotte Dorian S‚raphine
+no links
+
+REVERDY Paul Philippe Carlos
+no links
+
+REVIAL Thomas Bernard
+no links
+
+REYNIERHubert Henri Gilles
+no links
+
+RIAHI Francois Franck
+no links
+
+RICHARD de LATOURJean Raymond Paul Fernand
+no links
+
+RICHARD Stephane
+Energy sector -> Heavy industry
+Energy sector -> Real estate sector
+Heavy industry -> Energy sector
+Heavy industry -> Real estate sector
+Real estate sector -> Energy sector
+Real estate sector -> Heavy industry
+
+ROCARD Michel Louis Leon
+Ministry of Economy -> FOM
+the Ministry of Public Health and Population -> FOM
+the Ministry of Public Health and Population -> Ministry of Economy
+
+ROCHARD Joel Eric Andr‚
+no links
+
+ROCHE Jean-Marie Maurice Pierre
+FOM -> Commisions
+
+RONZE Daniel Marie Joseph
+Commissions Other -> Ministry of Economy
+Commissions Other -> the Ministry of Industry 
+Ministry of Economy -> the Ministry of Industry 
+
+ROSEN (by) Michel Andr‚ Robert
+Heavy industry -> Pharmaceutical industry
+Heavy industry -> Technology
+Pharmaceutical industry -> Heavy industry
+Pharmaceutical industry -> Technology
+
+ROULLIER Jean-Eudes Pierre Ren‚
+FOM -> "the Ministry of Transport, Equipment
+
+ROUQUETTE Jean-Louis Marie Jacques
+
+ROUVILLOIS Philippe Marie Andr‚
+Commissions Other -> Commisions
+Ministry of Economy -> Commisions
+Ministry of Economy -> Commissions Other
+
+RUBINOWICZ Claude Jean-Pierre
+ Caisse des d‚p“ts et consignations -> Consulting
+ Caisse des d‚p“ts et consignations -> Cr‚dit Lyonnais
+Consulting ->  Caisse des d‚p“ts et consignations
+Consulting -> Cr‚dit Lyonnais
+Cr‚dit Lyonnais ->  Caisse des d‚p“ts et consignations
+Cr‚dit Lyonnais -> Consulting
+
+SABOURET Yves Marie Georges
+Heavy industry -> Media
+Heavy industry -> Retail
+Heavy industry -> Technology
+Media -> Retail
+Media -> Technology
+Technology -> Retail
+the Ministry of Equipment and Housing -> Heavy industry
+the Ministry of Equipment and Housing -> Media
+the Ministry of Equipment and Housing -> Retail
+the Ministry of Equipment and Housing -> Technology
+
+SAHUGUET d'AMARZIT (by) Delphine Marie Josephe
+no links
+
+SALIVET de FOUCHECOUR (by) Louis Charles mile Marie
+Ministry of Economy -> Energy sector
+
+SARDAIS Claude Andr‚
+no links
+
+SARLAT Guillaume Thomas
+Soci‚t‚ G‚n‚rale -> BNP Paribas
+
+SARRAZIN Claude Germain Paul
+Ministry of Economy -> Heavy industry
+Ministry of Economy -> the Ministry of Industry 
+the Ministry of Industry  -> Heavy industry
+
+JUMP Christian
+FOM -> INSEE
+FOM -> Ministry of Economy
+INSEE -> FOM
+INSEE -> Ministry of Economy
+
+SCEMAMA Bernard
+FOM -> Heavy industry
+
+SCHNEITER Bertrand Michel
+Cabinets -> Cr‚dit Lyonnais
+Cabinets -> the Ministry of Foreign Trade 
+the Ministry of Foreign Trade  -> Cr‚dit Lyonnais
+
+SCHRAMECK Denis Jean Alexandre
+no links
+
+SCHWEITZER Louis Pierre Jean
+Heavy industry -> Ministry of Economy
+Heavy industry -> Pharmaceutical industry
+Ministry of Economy -> Heavy industry
+Ministry of Economy -> Pharmaceutical industry
+Pharmaceutical industry -> Heavy industry
+Pharmaceutical industry -> Ministry of Economy
+
+RYE Gilles Angelo Andr‚
+ Caisse des d‚p“ts et consignations -> Caisse des D‚p“ts et Consignations
+
+SENEZE Julien Marc
+no links
+
+SERVANT Peter Paul
+Caisse des D‚p“ts et Consignations ->  Caisse des d‚p“ts et consignations
+Caisse des D‚p“ts et Consignations -> Natixis
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+Ministry of Economy -> Caisse des D‚p“ts et Consignations
+Ministry of Economy -> Natixis
+Natixis ->  Caisse des d‚p“ts et consignations
+the Ministry of Cooperation and Development  ->  Caisse des d‚p“ts et consignations
+the Ministry of Cooperation and Development  -> Caisse des D‚p“ts et Consignations
+the Ministry of Cooperation and Development  -> Ministry of Economy
+the Ministry of Cooperation and Development  -> Natixis
+
+SEVERINO Jean-Michel Marie Fernand
+the Ministry of Cooperation and Development  -> the Ministry of Cooperation 
+
+SICHEL Olivier
+no links
+
+SILVENT Franck Pierre Philippe
+no links
+
+SINE Alexandre Vincent Romain
+no links
+
+SISSOKO Soya Mauritius
+ Caisse des d‚p“ts et consignations -> Caisse des D‚p“ts et Consignations
+Commissions Other ->  Caisse des d‚p“ts et consignations
+Commissions Other -> Caisse des D‚p“ts et Consignations
+
+SRIBER Etienne Jean
+FOM -> Commisions
+
+STORCH Olivier Alban
+no links
+
+SWEAT Catherine Monique Maguelonne
+no links
+
+SYLLA-WALBAUM Aline Chantal Claude
+no links
+
+TALHOUÓT (de) Bertrand Anne Louis
+
+TANTI Andr‚ Marie Emile Laurent Joseph
+
+TARDIEU Christophe Francois Philippe
+no links
+
+TAVERNIER Jean-Luc Andr‚ Marcel
+Cabinets -> INSEE
+Cabinets -> Ministry of Economy
+Cabinets -> the Forecasting department
+INSEE -> Ministry of Economy
+the Forecasting department -> INSEE
+the Forecasting department -> Ministry of Economy
+
+TESSIER Marc Marie Rene Maurice
+Media -> Other sectors
+the Ministry of Industry  -> Media
+the Ministry of Industry  -> Other sectors
+
+THERY Nicolas Daniel Marie Joseph
+Cabinets -> Ministry of Economy
+Ministry of Economy -> Cabinets
+
+THIARD Pierre-Emmanuel Henri Francois
+no links
+
+THILL Jean Victor Nicolas Alphonse
+ Caisse des d‚p“ts et consignations -> FOM
+FOM ->  Caisse des d‚p“ts et consignations
+
+THOUROT Patrick Georges Ren‚
+Commisions -> Ministry of Economy
+
+TISSOT Nicolas Alain Marie
+Heavy industry -> Energy sector
+
+TORDJMAN Jean-Daniel G‚rard
+no links
+
+TOULOUSE John
+no links
+
+TOUSSAINT Philippe Herve
+Soci‚t‚ G‚n‚rale -> BNP Paribas
+
+TRABUC Claude Marie Georges
+Ministry of Economy ->  Caisse des d‚p“ts et consignations
+
+TRICHET Jean-Claude Anne Marie Louis
+Commisions -> Ministry of Economy
+
+TRUPIN Laurent Albert Martin
+Retail -> the Ministry of Industry 
+
+VACHEY Laurent
+"the Ministry of Solidarity, Health and Social " -> Other banks
+
+VERDEIL Guy Henri
+Cabinets -> Ministry of Economy
+
+VERDELON (de) Xavier Marie Georges Ignace Th‚obald Fran‡ois R‚gis
+no links
+
+VERDIER Am‚lie Fran‡oise C‚cile Andr‚e
+
+VERON Francois
+no links
+
+Patrice Jacques Marie
+Other banks -> Heavy industry
+Other banks -> Technology
+Technology -> Heavy industry
+
+OLD Bernard Albert
+Commisions -> Heavy industry
+Commisions -> the Ministry of Industry 
+the Ministry of Industry  -> Heavy industry
+the Ministry of National Education  -> Commisions
+the Ministry of National Education  -> Heavy industry
+the Ministry of National Education  -> the Ministry of Industry 
+
+VILLAIN Claude Edouard Louis Etienne
+Ministry of Economy -> Other sectors
+Ministry of Economy -> the Ministry of Industry 
+the Ministry of Industry  -> Other sectors
+
+VILLEROY de GALHAU Francois Marie Bernard
+BNP Paribas -> Ministry of Economy
+Commisions -> BNP Paribas
+Commisions -> Ministry of Economy
+Ministry of Economy -> BNP Paribas
+
+VILLIN Philippe Bernard Gilbert
+Consulting -> Investment banks
+Consulting -> Media
+Consulting -> Other sectors
+Consulting -> Technology
+Media -> Consulting
+Media -> Investment banks
+Media -> Other sectors
+Media -> Technology
+Ministry of Economy -> Consulting
+Ministry of Economy -> Investment banks
+Ministry of Economy -> Media
+Ministry of Economy -> Other sectors
+Ministry of Economy -> Technology
+Other sectors -> Investment banks
+Technology -> Investment banks
+Technology -> Other sectors
+
+WAHL Jacques Henri
+Ministry of Economy -> BNP Paribas
+
+WAHL Thierry Antoine L‚on Gustave
+Ministry of Economy -> FOM
+
+WALLON Dominique Anne Erwan
+FOM -> Ministry of Culture
+
+WALRAFEN Thierry Gabriel Jean
+the Forecasting department ->  Caisse des d‚p“ts et consignations
+
+WEBER Jean Edouard Jacques
+"the Ministry of Agriculture, Minister of Agriculture and Forestry " -> CIC
+"the Ministry of Agriculture, Minister of Agriculture and Forestry " -> Commisions
+"the Ministry of Agriculture, Minister of Agriculture and Forestry " -> Other banks
+"the Ministry of Agriculture, Minister of Agriculture and Forestry " -> Pharmaceutical industry
+CIC -> Other banks
+Commisions -> CIC
+Commisions -> Other banks
+Commisions -> Pharmaceutical industry
+Pharmaceutical industry -> CIC
+Pharmaceutical industry -> Other banks
+
+WENDLING Claude Paul Emile
+no links
+
+WERNER Francois Claude Marie
+no links
+
+WERNER Patrick Jacques Bernard
+Other banks -> Technology
+Technology -> Other banks
+
+WEYDERT Jean-Marie
+Ministry of Economy -> Other banks
+
+WIENER de CROISSET Charles Francis
+FOM -> BPCE group
+FOM -> HSBC France
+HSBC France -> BPCE group
+
+WULF (de) Alain Jos‚
+BNP Paribas -> Consulting
+BNP Paribas -> Heavy industry
+BNP Paribas -> Media
+BNP Paribas -> Other sectors
+BNP Paribas -> Technology
+Consulting -> Heavy industry
+Media -> BNP Paribas
+Media -> Consulting
+Media -> Heavy industry
+Other sectors -> BNP Paribas
+Other sectors -> Consulting
+Other sectors -> Heavy industry
+Other sectors -> Media
+Other sectors -> Technology
+Retail -> BNP Paribas
+Retail -> Consulting
+Retail -> Heavy industry
+Retail -> Media
+Retail -> Other sectors
+Retail -> Technology
+Technology -> BNP Paribas
+Technology -> Consulting
+Technology -> Heavy industry
+Technology -> Media
+
+ZELLER Humbert
+no links
+
